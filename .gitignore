@@ -1,0 +1,5 @@
+Data/
+Dataset_YOLO/
+runs/
+*.ndjson
+yolo26n.pt
