@@ -1,0 +1,24 @@
+task: detect
+name: KITTI
+description: KITTI is the Karlsruhe Institute of Technology and Toyota Technological
+  Institute at Chicago autonomous-driving benchmark. Eight detection classes cover
+  cars, vans, trucks, pedestrians, seated people, cyclists, trams, and miscellaneous
+  road objects in real driving scenes.
+bytes: 756489412
+url: https://platform.ultralytics.com/ferret-34/datasets/kitti
+version: latest
+created_at: '2026-09-22T11:36:52.553Z'
+updated_at: '2026-09-22T11:36:52.553Z'
+names:
+  0: car
+  1: van
+  2: truck
+  3: pedestrian
+  4: person_sitting
+  5: cyclist
+  6: tram
+  7: misc
+train: images/train
+val: images/val
+hash: 54816d98
+complete: true
